@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+motor
+redis
+python-jose[cryptography]
+passlib
+bcrypt
+python-multipart
+minio
+email-validator
+httpx
+pytest
+pytest-asyncio
+aiosmtplib
+jinja2
